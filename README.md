@@ -1,7 +1,5 @@
 👋 Hi there! I'm **back-end developer** 👩‍💻
 <br>
-Sometimes I develop front-end like Django or Flask
-<br>
 I enjoy filates, spacing out while watching at the sea 🌊
 <br>
 I hope I grow steadily 🍀
