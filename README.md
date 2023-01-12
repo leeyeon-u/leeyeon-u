@@ -2,7 +2,7 @@
 <br>
 Sometimes I develop front-end like Django or Flask
 <br>
-I enjoy ilates, spacing out while watching at the sea 🌊
+I enjoy filates, spacing out while watching at the sea 🌊
 <br>
 I hope I grow steadily 🍀
 
