@@ -13,3 +13,7 @@ I hope I grow steadily 🍀
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"><img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white">
 
 <img src="https://img.shields.io/badge/RaspberryPi-A22846?style=flat-square&logo=RaspberryPi&logoColor=white"><img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=OpenCV&logoColor=white"><img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"><img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"><img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white">
+
+#### 🏆 BaekJoon Algorithm
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=yeonu66)](https://solved.ac/yeonu66)
+
